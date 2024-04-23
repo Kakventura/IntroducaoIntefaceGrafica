@@ -8,7 +8,7 @@ import java.awt.*; // MUDANÇA DE FUNDO
 
 /**
  *
- * @author dti
+ * @author  Karinne Angelo dos Santos Ventura
  */
 public class Aplicativo extends JFrame {
     Aplicativo(){
